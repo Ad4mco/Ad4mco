@@ -1,4 +1,12 @@
-### Hi there 👋
+### **Hi there** 👋
+
+Thanks for visiting my GitHub.
+
+🔭 I’m currently working on my first Software Engineering Course
+
+🌱 I’m currently learning Python 3, SQL, HTML CSS, Django and Git
+
+
 
 <!--
 **Ad4mco/Ad4mco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
