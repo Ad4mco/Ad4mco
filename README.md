@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub.
 
-🔭 I’m currently working on my first Software Engineering Course
+🔭 I completed my first Software Engineering course in February 2023
 
 🌱 I’m currently learning Python 3, SQL, HTML CSS, Django, Git and Modern JavaScript
 
